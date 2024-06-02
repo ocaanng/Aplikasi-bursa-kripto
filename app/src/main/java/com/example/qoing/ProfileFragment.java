@@ -52,7 +52,6 @@ public class ProfileFragment extends Fragment {
             }
         });
 
-
         // Inisialisasi ImageView dan tambahkan OnClickListener untuk menuju halaman Home
         ImageView iv_home = view.findViewById(R.id.IV_Home);
         iv_home.setOnClickListener(new View.OnClickListener() {
